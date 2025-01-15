@@ -19,4 +19,4 @@ Java: Used to fetch real-time stock data from Bloomberg’s blpapi API.
 Python: Handles automation, data parsing, anomaly detection, Excel file writing, and email alerts.
 Bloomberg API (blpapi): Used for accessing real-time stock market data.
 openpyxl: Python library to work with Excel files and save the stock data.
-smtplib: Python library to send email alerts in case of detected anomalies.
+smtplib: Python library to send email alerts in case of detected anomalies. 
